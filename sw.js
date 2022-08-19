@@ -11,7 +11,7 @@ const INMUTABLE_CACHE = 'inmutable-v1'
 
 // CREAMOS LOS OBJETOS SHELL
 const APP_sHELL = [
-    '/',
+    // '/',
     'index.html',
     'css/style.css',
     'img/favicon.ico',
